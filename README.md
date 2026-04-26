@@ -6,5 +6,9 @@ Prior to Columbia, I earned a BS in Computer Engineering from Purdue University 
 
 I'm interested in the intersection of machine learning, systematic trading, and agentic AI systems. Current projects include a statistical arbitrage platform reimplementing Avellaneda & Lee (2010), a market microstructure simulator, and a multi-agent RAG system for sports prediction.
 
-📫 aup2005@columbia.edu
-https://komarev.com/ghpvc/?username=aaditya79&color=blue
+📫 [![Email](https://img.shields.io/badge/Email-aup2005%40columbia.edu-blue?style=flat&logo=gmail)](mailto:aup2005@columbia.edu)
+
+👤 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aaditya--pai-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aaditya-pai/)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=aaditya79&color=blue&style=flat&label=Profile+Views)](https://github.com/aaditya79)
+
